@@ -39,3 +39,16 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# IDE
+.idea/
+
+# Build artifacts (large APK/IPA files)
+builds/
+
+# Development screenshots (curated ones in docs/images/)
+screenshots/
+
+# Analysis & debug files
+OPENCLAW_ANALYSIS.md
+error-oauth.jpg
